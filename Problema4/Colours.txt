@@ -1,0 +1,31 @@
+gold
+grey
+pink
+blue
+white
+black
+green
+orange
+purple
+violet
+brown
+silver
+red
+yellow
+navy blue
+sky blue
+ivory
+chestnut
+granate
+aquamarine
+olive
+salmon
+turquoise
+cooper
+emerald
+mauve
+lavender
+mustard
+carmine
+scarlet
+

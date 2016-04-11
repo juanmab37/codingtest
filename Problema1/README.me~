@@ -1,0 +1,4 @@
+Instrucciones
+
+Se proporciona un programa escrito en C++ para la resolución de las 2 preguntas del ejercicio 1. El mismo se compila con Makefile, es decir escribiendo make en la consola.
+

@@ -1,0 +1,15 @@
+Instrucciones
+
+Se proporcionan varios metodos para la resolución del problema segun lo investigado. El archivo que responde correctamente al problema es Branch/TSP.py pero por cuestiones de tiempo no lo pudimos usar. Se uso TSPGenetic para la resolucion. Para ejecutar meterse en la carpeta TSPGenetic y escribir en la consola:
+
+python Genetic.py
+
+Esto crea un camino hamiltoniano sin usar el nodo Sunchales (id 0). Luego agregamos este nodo y sumamos sus distancias. Esta optimización esta probada.
+
+0,3, 16, 25, 21, 9, 5, 11, 2, 17, 18, 4, 12, 1, 6, 19, 20, 15, 23, 22, 14, 10, 8, 7, 13,0
+
+19764.6336542
+490,57374573
+482,226689431
+
+Baruffaldi Juan Manuel

@@ -1,0 +1,18 @@
+Instrucciones
+
+El problema fue resuelto siguiendo los pasos: 
+	* Calcular puntos maximos y minimos
+	* Calcular el centro del cilindro  a partir de los mismos.
+	* Calcular 2 puntos de distancia minima al centro, que pertenezcan a la circunferencia correspondiente al centro, incluida en un plano paralelo a la base del cilindro. Calcular los 2 vectores que van del centro a estos dos puntos. Aqui ya tendremos el Radio.
+	* Con estos 2 vectores hacer su producto vectorial y obtener el eje del cilindro.
+	* Obtener la Altura mediante pitagoras, teniendo en cuenta el segmento desde el centro hasta el extremo de distancia maxima al centro como la hipotenusa y el radio como el cateto menor. 
+	* Obtener el angulo al eje Z calculando su coseno como la coordenada z del eje dividido su magnitud.
+
+Todo esto fue implementado en el archivo cilindro.py el cual se ejecuta mediante el comando 
+
+	python cilindro.py  
+
+El script parseara el archivo cilindro.txt y devolvera en pantalla el angulo, altura, radio.
+
+
+Baruffaldi Juan Manuel
